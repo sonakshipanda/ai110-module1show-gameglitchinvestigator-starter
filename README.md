@@ -44,5 +44,7 @@ This is a number guessing game built with Streamlit. The player picks a difficul
 
 ## 📸 Demo
 
-![Fixed game screenshot](demo_screenshot.jpeg)(pytest_results.jpeg)
+![Fixed game screenshot](demo_screenshot.jpeg)
+![Pytest results](pytest_screenshot.jpeg)
+
 
